@@ -14,4 +14,4 @@ In this workshop, SAMPL6 organizers and participants discussed the structure of 
 SAMPL6 logP Challenge Virtual Workshop video recording is also available:  
 [https://www.youtube.com/watch?v=FWUPXG8U3UE](https://www.youtube.com/watch?v=FWUPXG8U3UE)
 
-Please refer to [SAMPL6 repository](https://github.com/MobleyLab/SAMPL6/) for all information related to SAMPL6 Part II Log *P* Prediction Challenge.
+Please refer to [SAMPL6 repository](https://github.com/MobleyLab/SAMPL6/) for all information related to SAMPL6 Part II Log *P* Prediction Challenge including challenge instructions, experimental log *P* dataset, blind predictions, and analysis of results.
