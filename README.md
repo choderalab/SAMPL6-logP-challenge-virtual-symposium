@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3518862.svg)](https://doi.org/10.5281/zenodo.3518862)
+
+
 # SAMPL6 log *P* Challenge Virtual Workshop
 
 This repository contains slidedecks of presentations that took place in SAMPL6 log *P* Challenge Virtual Workshop on May 16th, 2019.
@@ -10,6 +13,8 @@ In this workshop, SAMPL6 organizers and participants discussed the structure of 
 * Nicolas Tielker (TU Dortmund) - "Prediction of partition coefficients for drug-like compounds"
 * Esteban Vohringer-Martinez (Univ. Concepción) - "Log *P *Results with Atom in Molecules Atomic Charges"
 * Alexei Nikitin
+
+[The SAMPL6 logP Virtual Workshop Zenodo page](https://zenodo.org/record/3518862#.XbsBvpNKho4) includes workshop overview, agenda, and video recording.  
 
 SAMPL6 logP Challenge Virtual Workshop video recording is also available:  
 [https://www.youtube.com/watch?v=FWUPXG8U3UE](https://www.youtube.com/watch?v=FWUPXG8U3UE)
